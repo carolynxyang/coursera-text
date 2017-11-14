@@ -1,4 +1,4 @@
-## Welcome to Test Pages
+## Test Pages
 
 You can use the [editor on GitHub](https://github.com/carolynxyang/coursera-text/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
